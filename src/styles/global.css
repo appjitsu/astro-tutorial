@@ -26,6 +26,17 @@ footer {
   text-align: center;
 }
 
+/* dark mode styles */
+
+html.dark {
+  background-color: #0d0950;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+
 /* hamburger styles */
 
 .hamburger {
